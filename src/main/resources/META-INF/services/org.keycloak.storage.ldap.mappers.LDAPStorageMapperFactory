@@ -1,1 +1,2 @@
 com.lunark.lunark.auth.provider.mapper.BookingLDAPRoleStorageMapperFactory
+com.lunark.lunark.auth.provider.mapper.UUIDRegistrationLDAPAttributeMapperFactory

@@ -1,1 +1,2 @@
 com.lunark.lunark.auth.provider.mapper.BookingLDAPRoleStorageMapper
+com.lunark.lunark.auth.provider.mapper.UUIDRegistrationLDAPAttributeMapper
